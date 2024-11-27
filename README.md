@@ -31,21 +31,5 @@ Welcome to the **Interface Admin Dashboard** project! This is a robust and respo
 - **Vercel** - For deployment.
 - **TypeScript** - For type checking and improved developer experience.
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/interface-admin-dashboard.git
-
-2. **Change the directory**
-    ```bash
-    cd directory-name
-3. **Install dependencies**
-    ```bash
-    npm install 
-4. **Run the project**
-    ```bash
-    npm run dev
 
     
