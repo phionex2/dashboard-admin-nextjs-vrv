@@ -2,8 +2,6 @@
 
 Welcome to the **Interface Admin Dashboard** project! This is a robust and responsive admin panel designed for managing user roles and permissions. It provides core functionalities like adding, editing, and deleting users, assigning roles, and more. This dashboard is built with React and utilizes modern UI components to ensure an intuitive and efficient user experience.
 
-### Project Domain
-- **Live Demo**: [Interface Admin Dashboard](https://interface-admin-dashboard.vercel.app/)
 
 ## Table of Contents
 
